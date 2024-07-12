@@ -45,18 +45,18 @@ redirect_from:
 
 # 📝 项目经验 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">社会仿真平台 2018</div><img src='images/shfzxt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">数智孪生城市推演原型系统 2023</div><img src='images/szlsty.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**社会仿真平台**]()
+[**数智孪生城市推演原型系统**]()
 
-**项目时间:** 2018.01-2018.12
+**项目时间:** 2016.02-2016.04
 
 **主要职责:** 项目经理
 
-**技术栈:** XSIM仿真平台框架, C++, Qt, HTML, Javascript
+**技术栈:** 某仿真引擎框架, Qt, C++, C#, HTML, vue.js, Javascript, java+springboot, HTTP/POST, Mongodb, PostgreSQL等
 
-**项目描述:** 本系统基于XSIM仿真平台框架，实现了Agent建模子系统、模型管理（装配）工具、情景设置与运行子系统、态势显示工具、分析评估工具。系统主要的作用是利用Agent建模的方法，构建扩散模型、疏散模型、疾病传播模型、信息传播模型等社会仿真模型，对扩散过程、疏散过程及方法、疾病传播过程及防控措施、信息传播过程进行仿真和展示。本项目为团队项目，本人主要完成了仿真模型的设计、开发、技术支持和文档编写等工作。 
+**项目描述:** 本系统能够基于人工城市标准数据集，生成可用于仿真推演的数字孪生城市镜像，通过开展基于数字孪生城市与实际城市的平行仿真推演，为研究超大规模城市管理提供推演系统支撑；系统实现了全球任意城市的人口、年龄结构、性别结构、POI数据、建筑物面、路网展示、行政区划边界，并且实现人工人口流动数据的热力图展示，依托于此系统还实现城市级的疫情、舆情、扩散、疏散等仿真及态势数据展。系统使用web+vue.js技术实现了可视化界面，后端使用springboot，基于C#结合多线程加消息队列的方式，实现仿真数据存储服务，采用Postgre SQL数据库存储GIS数据，采用mysql存储系统数据，采用MongoDB存储仿真实验数据；并将原基于某引擎框架开发的疫情、舆情等仿真模型，向自研引擎开发框架进行模型移植。
 </div>
 </div>
 
@@ -138,6 +138,21 @@ redirect_from:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">石化化工LDAR管理平台 2018</div><img src='images/ldar2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">社会仿真平台 2018</div><img src='images/shfzxt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**社会仿真平台**]()
+
+**项目时间:** 2018.01-2018.12
+
+**主要职责:** 项目经理
+
+**技术栈:** XSIM仿真平台框架, C++, Qt, HTML, Javascript
+
+**项目描述:** 本系统基于XSIM仿真平台框架，实现了Agent建模子系统、模型管理（装配）工具、情景设置与运行子系统、态势显示工具、分析评估工具。系统主要的作用是利用Agent建模的方法，构建扩散模型、疏散模型、疾病传播模型、信息传播模型等社会仿真模型，对扩散过程、疏散过程及方法、疾病传播过程及防控措施、信息传播过程进行仿真和展示。本项目为团队项目，本人主要完成了仿真模型的设计、开发、技术支持和文档编写等工作。 
+</div>
+</div>
 
 [**石化化工LDAR管理平台**]()
 
