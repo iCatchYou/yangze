@@ -44,6 +44,10 @@ redirect_from:
 </div>
 </div>
 
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+# 🎖 软著及专利 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">社会仿真平台 2018</div><img src='images/shfzxt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
