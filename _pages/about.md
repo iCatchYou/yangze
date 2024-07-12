@@ -166,6 +166,21 @@ redirect_from:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">气象仪数据采集系统 2016</div><img src='images/qxy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**气象仪数据采集系统**]()
+
+**项目时间:** 2016.02-2016.04
+
+**主要职责:** 项目经理
+
+**技术栈:** Qt, C++, TCP/UDP, Access等
+
+**项目描述:** 本软件为某船的航行气象数记录与管理而设计，本项目为个人独立完成设计及开发，本系统使用QT开发，实现了气象仪数据的采集、存储、展示、导出等功能。系统支持使用TCP或UDP通讯来获取气象仪的数据，然后通过数据解析模块将数据按协议进行解析、清洗以及存储，数据库采用ACCESS数据库。采集和管理的气象数据包括，UTC时间、风速、风向、对地航速、对地航向、大气压力、温度、湿度等。后续针对不同的场景进行了不同版本的迭代更新，软件运行稳定，可以在长时间的航海环境持续运行，到目前为止还在使用中。
+</div>
+</div>
+
 # 🎖 软著及专利 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">有害微生物的传播预测研究系统 2021</div><img src='images/rz_yhwsw.png' alt="sym" width="100%"></div></div>
