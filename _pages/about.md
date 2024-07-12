@@ -121,7 +121,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">武汉疫情推演仿真系统 2019</div><img src='images/yqfz.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">武汉疫情推演仿真系统 2019</div><img src='images/whyq.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**武汉疫情推演仿真系统**](https://mp.weixin.qq.com/s/H6-G4qt8ceagjNrOyh09aA)
@@ -133,6 +133,36 @@ redirect_from:
 **技术栈:** XSIM仿真平台框架, C++, Qt, HTML, java+springboot, HTTP/POST, Mysql等
 
 **项目描述:** 本项目为科研性质的项目，主要利用武汉真实疫情数据，并基于XSIM仿真框架构建疫情传播模型来进行仿真推演，本人主要完成了完成了基于XSIM引擎构建仿真系统框架，完成了态势展示、模型集成等开发工作，以及基于中间件的数据传输开发工作。
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">石化化工LDAR管理平台 2018</div><img src='images/ldar2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**石化化工LDAR管理平台**]()
+
+**项目时间:** 2018.09-2018.12
+
+**主要职责:** 开发组成员
+
+**技术栈:** HTML, java+springboot, HTTP/POST, Mysql, Redis等
+
+**项目描述:** 本系统是全国唯一一个根据国家标准开发的相关项目。它是的主要用户为化工企业、全省各级管理部门、第三方企业。主要实现了LDAR信息录入、报送和管理，指导和管理LDAR活动，实时监测LDAR项目的各个环节，实现数据分析、报表统计、报告生成等基本数据分析功能，并融入预测、溯源、规划等高级算法功能;项目系统基于Jeeplus框架快速搭建，后台及App端java，web端html+javascript+jsp，数据库采用mysql+redis。由于数据量大，对数据的实时性要求高，数据库我们采用MySQL分库，分表的形式设计。
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">科普馆控制软件开发 2018</div><img src='images/kpg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**科普馆控制软件开发**]()
+
+**项目时间:** 2018.08
+
+**主要职责:** 项目经理
+
+**技术栈:** Qt, C++, vlc, C#, UDP, Mysql等
+
+**项目描述:** 本软件主是运行在科普馆提供气象数据采集、气象数据展示、视频轮播服务。本项目主要分为三部分：一是，基于C#编写了一个后台服务，用于调用API接口，获取气象及AQI数据，并将数据存入数据库服务器中；二是，基于QT开发一个 widget程序，使用自绘的方法，在八个LED双色屏上分别显示不同地点的气象数据；三是，基于QT widget结合vlc库开发了桌面应用程序，实现了分屏循环播放不同地区的视频，并实时显示气象及AQI数据，并在这个基础下结合使用UDP通讯实现点播功能。
 </div>
 </div>
 
