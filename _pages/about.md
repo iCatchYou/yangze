@@ -83,7 +83,7 @@ redirect_from:
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 教育经历
-- *2009.09 - 2013.06*, 湖南农业大学, 本科 | 教育技术学. 教育技术学专业是教育学类专业的一个分支，是利用“计算机技术”与“教育技术”相结合进行教学的教育专业，本专业设立：计算机网络、电子与电子技术、c++程序设计、数据结构与数据库技术、多媒体技术基础、微机原理、教育技术学导论等课程。
+- *2009.09 - 2013.06*, 湖南农业大学.教育技术学.本科, 教育技术学专业是教育学类专业的一个分支，是利用“计算机技术”与“教育技术”相结合进行教学的教育专业，本专业设立：计算机网络、电子与电子技术、c++程序设计、数据结构与数据库技术、多媒体技术基础、微机原理、教育技术学导论等课程。
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
