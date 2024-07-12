@@ -27,9 +27,21 @@ redirect_from:
 - *2014.04 - 2021.11*: &nbsp;🎉🎉 北京华如科技股份有限公司, 软件工程师. 常驻国防科技大学系统工程学院，主要负责软件项目的需求对接与需求分析，架构设计及相关文档的编写，开发任务计划制定、人员安排、进度推进。
 - *2013.06 - 2014.02*: &nbsp;🎉🎉 深圳市策维科技有限公司, 软件工程师. 设备异常处理,了解程序的整体结构，熟悉程序的工作流程，总结设备工作异常原因，并对程序进行优化、测试与升级。掌握VC++ 开发方法，学会使用MFC，掌握运动控制卡与IO控制卡工作与程序控制方法。
 
-# 📝 Publications 
+# 📝 项目经验 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/shfzxt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">社会仿真平台 2018</div><img src='images/shfzxt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">社会仿真平台 2018</div><img src='images/shfzxt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
