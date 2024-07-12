@@ -76,7 +76,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">数智某景区应急平台 2023</div><img src='images/yls.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">数智某景区应急平台 2023</div><img src='images/yls.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**数智某景区应急平台**]()
