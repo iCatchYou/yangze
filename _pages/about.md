@@ -198,7 +198,7 @@ redirect_from:
 
 # 🎖 软著及专利 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">有害微生物的传播预测研究系统 2021</div><img src='images/rz_yhwsw.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[软著]有害微生物的传播预测研究系统 2021</div><img src='images/rz_yhwsw.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**有害微生物的传播预测研究系统**]()
@@ -214,7 +214,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">人工社会情景构建软件 2020</div><img src='images/rz_rgshqjgj.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[软著]人工社会情景构建软件 2020</div><img src='images/rz_rgshqjgj.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**人工社会情景构建软件**]()
@@ -230,7 +230,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">基于事件链的舆情推演系统 2020</div><img src='images/rz_sjl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[软著]基于事件链的舆情推演系统 2020</div><img src='images/rz_sjl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**基于事件链的舆情推演系统**]()
@@ -246,7 +246,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">四川省石化化工LDAR管理平台 2020</div><img src='images/ldar.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[软著]四川省石化化工LDAR管理平台 2020</div><img src='images/ldar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**四川省石化化工LDAR管理平台**]()
