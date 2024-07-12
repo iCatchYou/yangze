@@ -32,11 +32,13 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">社会仿真平台 2018</div><img src='images/shfzxt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[社会仿真平台]
+[社会仿真平台](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**技术栈:** XSIM仿真平台框架, C++, Qt, HTML, Javascript
+**项目时间:** 2018.01-2018.12
 
 **主要职责:** 项目经理
+
+**技术栈:** XSIM仿真平台框架, C++, Qt, HTML, Javascript
 
 [**项目描述**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - 本系统基于XSIM仿真平台框架，实现了Agent建模子系统、模型管理（装配）工具、情景设置与运行子系统、态势显示工具、分析评估工具。
