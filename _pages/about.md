@@ -21,6 +21,11 @@ redirect_from:
 
 本人具有丰富的仿真系统、复杂网络分析、自动化设备控制、视频软件、传感数据采集与存储、环境监测等项目经验，曾参与多个项目的设计及研发工作，在项目担任着重要角色，主要工作内容为软件设计及开发、文档编写、数据设计及开发、方案制定、专利编写等工作，出色的完成了各项工作及任务。 
 
+# 📖 教育经历
+- *2009.09 - 2013.06*, 湖南农业大学.教育技术学.本科, 教育技术学专业是教育学类专业的一个分支，是利用“计算机技术”与“教育技术”相结合进行教学的教育专业，本专业设立：计算机网络、电子与电子技术、c++程序设计、数据结构与数据库技术、多媒体技术基础、微机原理、教育技术学导论等课程。
+
+# 💻 专业技能
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 # 🔥 主要工作经历
 - *2021.12 - 2024.06*: &nbsp;🎉🎉 国防科技大学系统工程学院, 专业技术类软件工程师. 负责软件设计及开发、文档编写、数据设计及开发、方案制定、专利编写等工作。 
@@ -79,19 +84,3 @@ redirect_from:
 - 本系统构建了有害微生物传播的数学与多智能体仿真模型，预测微生物在城市中的扩散，评估风险并对比防控措施效果。研发的预测系统，利用多源数据分析传播动态，识别关键节点，预测速度与范围，评估防控策略。研究揭示，政府措施和个人防护是疫情防控核心，文化差异影响执行效果。成果提供科学决策支持，助力疫情防控。 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 教育经历
-- *2009.09 - 2013.06*, 湖南农业大学.教育技术学.本科, 教育技术学专业是教育学类专业的一个分支，是利用“计算机技术”与“教育技术”相结合进行教学的教育专业，本专业设立：计算机网络、电子与电子技术、c++程序设计、数据结构与数据库技术、多媒体技术基础、微机原理、教育技术学导论等课程。
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
