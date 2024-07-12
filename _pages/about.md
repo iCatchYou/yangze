@@ -196,6 +196,21 @@ redirect_from:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">扩散、疏散、溯源仿真系统 2016</div><img src='images/kssssy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**扩散、疏散、溯源仿真系统**]()
+
+**项目时间:** 2016.01-2017.12
+
+**主要职责:** 项目经理
+
+**技术栈:** Qt, C++, QGIS等
+
+**项目描述:** 本系统主要是实现了扩散、疏散、溯源仿真实验的想定配置、扩散实验调用计算、疏散实验调用计算、溯源实验调用计算、态势显示等功能。本系统基于QT及VS，并结合QGIS进行开发，QGIS库及附加库均为自己手动编译；本系统为团队项目，本人主要完成了可视化开发、想定模块开发、扩散实验调用计算开发、疏散实验调用计算开发、溯源实验调用计算开发、态势显示开发等工作。
+</div>
+</div>
+
 # 🎖 软著及专利 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[软著]有害微生物的传播预测研究系统 2021</div><img src='images/rz_yhwsw.png' alt="sym" width="100%"></div></div>
