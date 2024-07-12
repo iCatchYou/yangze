@@ -64,15 +64,19 @@ redirect_from:
 
 # 🎖 软著及专利 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">有害微生物的传播预测研究系统 2021</div><img src='images/shfzxt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">有害微生物的传播预测研究系统 2021</div><img src='images/rz_yhwsw.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [有害微生物的传播预测研究系统](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**登记号:** 2021SR2062750
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**著作权人:** 北京鼎成智造科技有限公司
+
+**登记日期:** 2021-12-15
+
+[**系统描述**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 本系统构建了有害微生物传播的数学与多智能体仿真模型，预测微生物在城市中的扩散，评估风险并对比防控措施效果。研发的预测系统，利用多源数据分析传播动态，识别关键节点，预测速度与范围，评估防控策略。研究揭示，政府措施和个人防护是疫情防控核心，文化差异影响执行效果。成果提供科学决策支持，助力疫情防控。 
 </div>
 </div>
 
