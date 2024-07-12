@@ -121,7 +121,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">武汉疫情推演仿真系统 2019</div><img src='images/whyq.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">武汉疫情推演仿真系统 2019</div><img src='images/whyq.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**武汉疫情推演仿真系统**](https://mp.weixin.qq.com/s/H6-G4qt8ceagjNrOyh09aA)
