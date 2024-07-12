@@ -122,6 +122,22 @@ redirect_from:
 **登记日期:** 2020-09-10
 
 [**系统描述**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- 本系围绕舆情推演分析要求，基于个体模型、目标网络模型、环境模型、评估模型以及事件链模型构建基于事件链的舆情推演系统，支持网络舆情导控方案推演。 
+- 本系统围绕舆情推演分析要求，基于个体模型、目标网络模型、环境模型、评估模型以及事件链模型构建基于事件链的舆情推演系统，支持网络舆情导控方案推演。 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">四川省石化化工LDAR管理平台 2020</div><img src='images/ldar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**四川省石化化工LDAR管理平台**]()
+
+**登记号:** 2020SR0474122
+
+**著作权人:** 四川省生态环境科学研究院,陈军辉,刘政,姜涛,韩丽,李英杰,徐晨曦,王波
+
+**登记日期:** 2020-05-19
+
+[**系统描述**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 本系统主要用户为化工企业、全省各级管理部门、第三方企业。主要实现了LDAR信息录入、报送和管理，指导和管理LDAR活动，实时监测LDAR项目的各个环节，实现数据分析、报表统计、报告生成等基本数据分析功能，并融入预测、溯源、规划等高级算法功能;。 
 </div>
 </div>
