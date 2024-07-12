@@ -63,7 +63,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">有害微生物传播预测系统 2021</div><img src='images/yhwsw.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**有害微生物传播预测系统**]()
+[**有害微生物传播预测系统**](https://mp.weixin.qq.com/s/XwMIrYBClVdgEeNosE3gpQ)
 
 **项目时间:** 2021.08-2021.09
 
@@ -106,7 +106,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">舆情传播仿真系统 2021</div><img src='images/shfzxt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">舆情传播仿真系统 2021</div><img src='images/yqfz.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**舆情传播仿真系统**]()
@@ -118,6 +118,21 @@ redirect_from:
 **技术栈:** XSIM仿真平台框架, C++, Qt, HTML, java+springboot, HTTP/POST, RTI, DDS, Mysql等
 
 **项目描述:** 本项目分三期，采用XSIM仿真引擎与C++开发，实现千万级人口舆情传播仿真，一期：基于XSIM引擎，开发舆情事件链编辑器、仿真模型与态势展示，支持数据模型、信息传播模型，利用RTI实现异构系统互联。二期：新增外部系统接口，模拟基础设施破坏触发舆情，扩展仿真能力。三期：通过HTTP/POST与本地舆情分析系统通信，DDS中间件促进异构系统联动，实现舆情评估体系构建与仿真结果评估，增强事件注入与第三方系统兼容性。本项目为团队项目，本人为重要开发成员，主要完成了系统设计及开发、仿真模型设计与开发、数据传输设计与开发，文档编写等工作。
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">武汉疫情推演仿真系统 2019</div><img src='images/yqfz.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**武汉疫情推演仿真系统**](https://mp.weixin.qq.com/s/H6-G4qt8ceagjNrOyh09aA)
+
+**项目时间:** 2019.01-2020.12
+
+**主要职责:** 项目经理
+
+**技术栈:** XSIM仿真平台框架, C++, Qt, HTML, java+springboot, HTTP/POST, Mysql等
+
+**项目描述:** 本项目为科研性质的项目，主要利用武汉真实疫情数据，并基于XSIM仿真框架构建疫情传播模型来进行仿真推演，本人主要完成了完成了基于XSIM引擎构建仿真系统框架，完成了态势展示、模型集成等开发工作，以及基于中间件的数据传输开发工作。
 </div>
 </div>
 
