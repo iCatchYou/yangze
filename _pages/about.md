@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "杨泽个人简介"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+本人本科学历，教育技术学专业，有10年以上工作经验，且有9年以上社会仿真相关工作经验；主要掌握编程语言为C/C++,且有C#，JAVA、WEB等项目开发经验；熟悉使用QT、VS、IDEA等开发工具进行项目开发，对面向对象、MVC有深刻的理解；熟练使用常用软件建模工具进行系统分析和设计，熟悉运用MySQL、Sqlite、SQL Server、Redis、MongoDB等数据库开发及Tomcat等主流应用服务器，另外还掌握常用需求/架构设计工具使用。
+本人具有丰富的仿真系统、自动化设备控制、视频软件、传感数据采集与存储、环境监测等项目经验，曾参与多个项目的设计及研发工作，在项目担任着重要角色，主要工作内容为软件设计及开发、文档编写、数据设计及开发、方案制定、专利编写等工作，出色的完成了各项工作及任务。 
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
