@@ -76,6 +76,51 @@ redirect_from:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">数智某景区应急平台 2023</div><img src='images/shfzxt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**数智某景区应急平台**]()
+
+**项目时间:** 2023.07-2024.03
+
+**主要职责:** 产品经理
+
+**技术栈:** 某仿真引擎, C++, HTML, vue.js, three.js, java+springboot, Javascript, HTTP/POST, Websocket, Mongodb等
+
+**项目描述:** 本系统系统是一个专门设计和用于管理应急事件和危机响应的综合性系统。该系统旨在提供实时监测、信息统计和应急仿真等功能，以帮助景区管理部门和相关应急人员做出迅速、准确的应对措施。系统使用web+vue.js基于Cesium.js实现，POI、建筑物白模、三维实景、平面数据、道路路网、高程数据的加载，并实现了宏观及微观的人流及车流仿真计算及数据显示，并基于Unity实现了干预系统，可以根据预警状态实时注入干预措施实现了人流管控及疏导。考虑到仿真数据量大，查询速度要快等特点，数据库采用MongoDB。本项目为团队项目，本人主要工作定位为产品经理，主要职责为系统设计与开发、数据库设计与开发、文档编写等工作。 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">全球人工人口生成系统 2021</div><img src='images/shfzxt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**全球人工人口生成系统**]()
+
+**项目时间:** 2021.01-2022.12
+
+**主要职责:** 项目经理
+
+**技术栈:** C++, HTML, vue.js, three.js, java+springboot, Javascript, redis, PostgreSQL等
+
+**项目描述:** 本系统是对人口统计普查数据清洗算法、地理信息系统数据挖掘算法、人工人口生成算法和人口地全球人工人口生成系统理空间模型生成算法的封装和流程性开发。系统为人工社会情景包括提供自动化的构建方法，实现街道生成、家庭人口的生成、住宅的生成及分配、工作场所的生成及分配、社会关系的生成、活动链的生成、相关数据导出等人工社会情景数据的生成功能，规范工作流程和生成效率，软件生成的数据可直接用于各类人工社会仿真。全系统开发集成遵循统一标准规范，系统采用C++面向对象的方法设计，各个模块相分离，便于系统维护和升级改造，具备良好的扩展性；系统可以支持GIS数据的读取和处理；系统中GIS数据采用postgre sql进行存储，人工人口数据采用redis进行存储，并对redis数据库键值及字段进行了统一的编码,使得查询速度最大化，系统内部和各模块采用多线程的方式，以提高系统的数据生成工作效率和稳定性。本项目为团队项目，本人为重要参与人员，主要完成了系统的设计及开发，文档编写等工作。
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">舆情传播仿真系统 2021</div><img src='images/shfzxt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**舆情传播仿真系统**]()
+
+**项目时间:** 2021.01-2022.12
+
+**主要职责:** 项目经理
+
+**技术栈:** XSIM仿真平台框架, C++, Qt, HTML, java+springboot, HTTP/POST, RTI, DDS, Mysql等
+
+**项目描述:** 本项目分三期，采用XSIM仿真引擎与C++开发，实现千万级人口舆情传播仿真，一期：基于XSIM引擎，开发舆情事件链编辑器、仿真模型与态势展示，支持数据模型、信息传播模型，利用RTI实现异构系统互联。二期：新增外部系统接口，模拟基础设施破坏触发舆情，扩展仿真能力。三期：通过HTTP/POST与本地舆情分析系统通信，DDS中间件促进异构系统联动，实现舆情评估体系构建与仿真结果评估，增强事件注入与第三方系统兼容性。本项目为团队项目，本人为重要开发成员，主要完成了系统设计及开发、仿真模型设计与开发、数据传输设计与开发，文档编写等工作。
+</div>
+</div>
+
 # 🎖 软著及专利 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">有害微生物的传播预测研究系统 2021</div><img src='images/rz_yhwsw.png' alt="sym" width="100%"></div></div>
