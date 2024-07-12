@@ -72,7 +72,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">有害微生物的传播预测研究系统 2021</div><img src='images/rz_yhwsw.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[有害微生物的传播预测研究系统]()
+[**有害微生物的传播预测研究系统**]()
 
 **登记号:** 2021SR2062750
 
@@ -82,5 +82,21 @@ redirect_from:
 
 [**系统描述**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - 本系统构建了有害微生物传播的数学与多智能体仿真模型，预测微生物在城市中的扩散，评估风险并对比防控措施效果。研发的预测系统，利用多源数据分析传播动态，识别关键节点，预测速度与范围，评估防控策略。研究揭示，政府措施和个人防护是疫情防控核心，文化差异影响执行效果。成果提供科学决策支持，助力疫情防控。 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">人工社会情景构建软件 2020</div><img src='images/rz_yhwsw.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**人工社会情景构建软件**]()
+
+**登记号:** 2020SR1074052
+
+**著作权人:** 中国人民解放军国防科技大学
+
+**登记日期:** 2020-09-10
+
+[**系统描述**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 本系软件为人工社会情景包括提供自动化的构建方法，实现了街道生成、家庭人口的生成、住宅的生及分配、工作场所的生成及分配、社会关系的生成、活动链的生成、相关数据导出等人工社会情景数据的生成功能，规范工作流程和生成效率，软件生成的数据可直接用于各类人工社会仿真。 
 </div>
 </div>
