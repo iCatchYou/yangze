@@ -85,7 +85,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">人工社会情景构建软件 2020</div><img src='images/rz_yhwsw.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">人工社会情景构建软件 2020</div><img src='images/rz_rgshqjgj.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**人工社会情景构建软件**]()
