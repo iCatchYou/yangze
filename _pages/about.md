@@ -65,8 +65,6 @@ redirect_from:
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 软著及专利 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">有害微生物的传播预测研究系统 2021</div><img src='images/rz_yhwsw.png' alt="sym" width="100%"></div></div>
@@ -98,5 +96,21 @@ redirect_from:
 
 [**系统描述**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - 本系软件为人工社会情景包括提供自动化的构建方法，实现了街道生成、家庭人口的生成、住宅的生及分配、工作场所的生成及分配、社会关系的生成、活动链的生成、相关数据导出等人工社会情景数据的生成功能，规范工作流程和生成效率，软件生成的数据可直接用于各类人工社会仿真。 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">基于事件链的舆情推演系统 2020</div><img src='images/rz_sjl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**基于事件链的舆情推演系统**]()
+
+**登记号:** 2020SR1074037
+
+**著作权人:** 中国人民解放军国防科技大学
+
+**登记日期:** 2020-09-10
+
+[**系统描述**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 本系围绕舆情推演分析要求，基于个体模型、目标网络模型、环境模型、评估模型以及事件链模型构建基于事件链的舆情推演系统，支持网络舆情导控方案推演。 
 </div>
 </div>
