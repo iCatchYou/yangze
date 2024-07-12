@@ -32,12 +32,15 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">社会仿真平台 2018</div><img src='images/shfzxt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[社会仿真平台](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[社会仿真平台]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**技术栈:**, XSIM仿真平台框架, C++, Qt, HTML, Javascript
+**主要职责:**, 项目经理
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**项目描述**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 本系统基于XSIM仿真平台框架，实现了Agent建模子系统、模型管理（装配）工具、情景设置与运行子系统、态势显示工具、分析评估工具。
+- 系统主要的作用是利用Agent建模的方法，构建扩散模型、疏散模型、疾病传播模型、信息传播模型等社会仿真模型，对扩散过程、疏散过程及方法、疾病传播过程及防控措施、信息传播过程进行仿真和展示。
+- 本项目为团队项目，本人主要完成了仿真模型的设计、开发、技术支持和文档编写等工作。 
 </div>
 </div>
 
