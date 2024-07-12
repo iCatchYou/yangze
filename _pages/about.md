@@ -34,8 +34,9 @@ redirect_from:
 
 [社会仿真平台]
 
-**技术栈:**, XSIM仿真平台框架, C++, Qt, HTML, Javascript
-**主要职责:**, 项目经理
+**技术栈:** XSIM仿真平台框架, C++, Qt, HTML, Javascript
+
+**主要职责:** 项目经理
 
 [**项目描述**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - 本系统基于XSIM仿真平台框架，实现了Agent建模子系统、模型管理（装配）工具、情景设置与运行子系统、态势显示工具、分析评估工具。
