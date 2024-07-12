@@ -31,7 +31,7 @@ redirect_from:
 - 4.熟悉基于VS开发工具的C++及C#开发及调试。
 - 5.熟悉Pycharm平台进行python项目开发。
 - 6.熟悉使用Navicat ，PowerDesigner 等工具对数据库进行设计。
-- 7.熟悉Mysql、Redis、MongoDB、SQLite等数据库。
+- 7.熟悉Mysql、Redis、MongoDB、SQLite、PostgreSQL等数据库。
 - 8.了解基于自动化设备的运动控制编程方法。
 - 9.熟悉使用eclipse、idea进行JAVA后台开发。
 - 10.熟悉软件设计及开发相关文档编写。
