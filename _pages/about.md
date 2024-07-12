@@ -91,7 +91,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">全球人工人口生成系统 2021</div><img src='images/shfzxt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">全球人工人口生成系统 2021</div><img src='images/rgshsc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**全球人工人口生成系统**]()
