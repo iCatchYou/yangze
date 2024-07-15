@@ -1,19 +1,19 @@
 # main links links
 main:
   - title: "关于我"
-    url: "/#about-me"
+    url: "/yz.github.io/#about-me"
 
   - title: "教育经历"
-    url: "/#-教育经历"
+    url: "/yz.github.io/#-教育经历"
 
   - title: "专业技能"
-    url: "/#-专业技能"
+    url: "/yz.github.io/#-专业技能"
 
   - title: "主要工作经历"
-    url: "/#-主要工作经历"
+    url: "/yz.github.io/#-主要工作经历"
 
   - title: "项目经验"
-    url: "/#-项目经验"
+    url: "/yz.github.io/#-项目经验"
 
   - title: "软著及专利"
-    url: "/#-软著及专利"
+    url: "/yz.github.io/#-软著及专利"
