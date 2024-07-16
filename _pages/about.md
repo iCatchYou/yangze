@@ -91,7 +91,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">某景区应急干预系统 2023</div><img src='images/yls.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">某景区应急干预系统 2023</div><img src='images/yls2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**某景区应急干预系统**]()
