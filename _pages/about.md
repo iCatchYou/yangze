@@ -292,6 +292,26 @@ redirect_from:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[发明专利]一种确定社交网络中社区结构的方法、装置及存储介质 2018</div><img src='images/CN201811534512.0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**一种确定社交网络中社区结构的方法、装置及存储介质**]()
+
+**公开号:** CN111899115B
+
+**申请号:** CN202010480690.0
+
+**申请日:** 2020-05-30
+
+**申请人:** 中国兵器科学研究院
+
+**发明人:** 李军;陈彬;刘冰;艾川;王晓悦;张芳;**杨泽**;陈海亮;田建辉;江金寿;叶金华;陈科;何圣华
+
+[**摘要**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 本申请提供一种确定社交网络中社区结构的方法、装置及存储介质，涉及计算机技术领域，用以提供一种新的确定社区结构的方法。该方法包括：基于用户标识与预划分的地理区域的映射关系，利用从社交网络中获取的用户交互数据创建地理区域交互网络；用户交互数据包括用户标识和数据传输方向；地理区域交互网络包括与用户交互数据中用户标识映射的地理区域对应的地理节点，及基于数据传输方向确定的连接地理节点的第一连边；基于地理区域交互网络构建边可交换模型并进行训练；对训练后的边可交换模型进行设定采样处理，得到第一连边以及地理节点的分类结果；根据分类结果确定社交网络中的社区结构。该方法能够基于用户的地理位置确定社区结构。 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[发明专利]基于数据流定制的通用生态安全监测数据采集方法与装置 2018</div><img src='images/CN201811534512.0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
