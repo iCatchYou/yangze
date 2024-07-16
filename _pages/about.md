@@ -122,7 +122,7 @@ redirect_from:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">人工社会重建数据集 2021</div><img src='images/rgshsc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">人工社会重建数据集 2021</div><img src='images/sjj.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**人工社会重建数据集**]()
