@@ -7,7 +7,6 @@
 
 # Site Settings
 title                    : "杨泽"
-age                      : 34
 description              : "逆水行舟，不进则退"
 repository               : "iCatchYou/yz.github.io"
 google_scholar_stats_use_cdn : false
@@ -23,6 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "杨泽"
+  age              : "34"
   avatar           : "images/photo2.jpg"
   bio              : "湖南农业大学（Hunan Agricultural University）"
   location         : "湖南省, 长沙市, 岳麓区"
