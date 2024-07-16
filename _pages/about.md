@@ -121,6 +121,22 @@ redirect_from:
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">人工社会重建数据集 2021</div><img src='images/rgshsc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**人工社会重建数据集**]()
+
+**项目时间:** 2021.02-2021.07
+
+**主要职责:** 项目经理
+
+**技术栈:** C#, HTML, vue.js, cesium.js, java+springboot, Javascript, redis, PostgreSQL等
+
+**项目描述:** 本系统包括两数据管理和数据展示两个子系统，数据管理子系统采用C/S架构，提供人工社会数据库的管理功能，包括人口数据、行政边界数据、建筑面数据、POI数据的处理、入库、管理、地图发布等功能。数据展示子系统采用B/S架构，在web三维环境下，为用户提供不同国家行政边界数据、人口数据、建筑面数据、POI数据的展示与统计。本项目为团队项目，本人为重要参与人员，主要完成了系统的设计及开发，文档编写等工作。
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">舆情传播仿真系统 2021</div><img src='images/yqfz.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
