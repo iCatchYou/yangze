@@ -7,6 +7,7 @@
 
 # Site Settings
 title                    : "杨泽"
+age                      : 34
 description              : "逆水行舟，不进则退"
 repository               : "iCatchYou/yz.github.io"
 google_scholar_stats_use_cdn : false
