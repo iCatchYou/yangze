@@ -292,7 +292,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[发明专利]一种确定社交网络中社区结构的方法、装置及存储介质 2018</div><img src='images/CN201811534512.0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[发明专利]一种确定社交网络中社区结构的方法、装置及存储介质 2018</div><img src='images/st2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**一种确定社交网络中社区结构的方法、装置及存储介质**]()
