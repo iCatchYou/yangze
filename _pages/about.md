@@ -91,6 +91,21 @@ redirect_from:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">某景区应急干预系统 2023</div><img src='images/yls.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**某景区应急干预系统**]()
+
+**项目时间:** 2023.08-2024.04
+
+**主要职责:** 产品经理
+
+**技术栈:** 某三维引擎, C#, 倾斜摄影, Websocket, Mongodb等
+
+**项目描述:**本系统是基于国产自主可控的三维引擎平台开发的软件系统，其核心目标是通过利用三维实景模型作为仿真场景，以仿真数据为数据驱动的方式，为决策者提供全面的3D模型管理、干预管理、预案管理、预警及处置展示、在线干预等功能，从而提高应对突发事件的能力和效率。系统旨在为决策者提供重要的决策支持，帮助其有效应对各类突发事件和紧急情况。本系统的主要技术特点为采用通用化的平台设计，可以针对任意微观场景，自定义干预措施及应急预案，并且采用通用化的接口，可以实现干预措施和方案的在线干预。考虑到仿真数据量大，查询速度要快等特点，数据库采用MongoDB。不同系统之间通过通用化的接口，采用Websocket进行通讯。本项目为团队项目，本人主要工作定位为产品经理，主要职责为系统设计与开发、数据库设计与开发、文档编写等工作。 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">全球人工人口生成系统 2021</div><img src='images/rgshsc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
