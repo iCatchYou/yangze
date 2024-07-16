@@ -29,7 +29,7 @@ redirect_from:
 - 2.熟悉Socket套接字的网络编程，熟悉TCP/IP、UDP/IP协议栈。
 - 3.熟悉QT界面编程，熟悉信号与信号槽。
 - 4.熟悉基于VS开发工具的C++及C#开发及调试。
-- 5.熟悉Pycharm平台进行python项目开发。
+- 5.熟悉Pycharm、Jupyter Notebook、Anaconda平台进行python项目开发。
 - 6.熟悉使用Navicat ，PowerDesigner 等工具对数据库进行设计。
 - 7.熟悉Mysql、Redis、MongoDB、SQLite、PostgreSQL等数据库。
 - 8.了解基于自动化设备的运动控制编程方法。
